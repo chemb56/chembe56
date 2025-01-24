@@ -47,15 +47,13 @@ My facination in information technology and curiosity in how computers and netwo
     <img src="https://img.shields.io/badge/-Wazuh-3A8E3C?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 
 </div>
-### FORENSICS
+FORENSICS
 <div>
    <img src="https://img.shields.io/badge/-LiME-FF6600?&style=for-the-badge&logo=LiME&logoColor=white" />
    <img src="https://img.shields.io/badge/-Volatility-2D2D2D?&style=for-the-badge&logo=Volatility&logoColor=white" />
    <img src="https://img.shields.io/badge/-Trivy-4B9F36?&style=for-the-badge&logo=Aqua%20Security&logoColor=white" />
    <img src="https://img.shields.io/badge/-FireEye%20Redline-CC0000?&style=for-the-badge&logo=FireEye&logoColor=white" />
    <img src="https://img.shields.io/badge/-Autopsy-0099FF?&style=for-the-badge&logo=Autopsy&logoColor=white" />
-
-
 
 </div>
 
